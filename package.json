@@ -1,5 +1,5 @@
 {
-  "name": "teleapi-client",
+  "name": "teleapi",
   "version": "1.0.0",
   "description": "Client libraries for teleapi.net",
   "main": "index.js",
