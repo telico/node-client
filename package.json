@@ -8,7 +8,7 @@
   },
   "repository": "",
   "author": "Joe Dulin",
-  "license": "BSD",
+  "license": "MIT",
   "dependencies": {
     "restler": "~3.4.0"
   }
